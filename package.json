@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohyajk/Jest-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohyajk/Jest-Test/issues"
+  },
+  "homepage": "https://github.com/ohyajk/Jest-Test#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
